@@ -3,7 +3,7 @@
   "rom_name": "8.5.3-202207181710-user-drw-afb56dfbfc.zip",
   "pack_sgsi": "SOS11 SGSI.zip",
   "make_type": "AB",
-  "rom_type": "Smartisan OS",
+  "rom_type": "",
   "light_fix": true,
   "bug_fix": false,
   "version": "11",
